@@ -1,1 +1,1 @@
-bucket_name="dev-sa-east-1-projetopipeline-gitactions"
+bucket_name="dev-us-east-1-projetopipeline-gitactions"
